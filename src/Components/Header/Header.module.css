@@ -1,0 +1,16 @@
+.wrapper {
+    display: flex;
+    height: 4rem;
+    background-color: rgba(217, 211, 223, 0.412);
+    justify-content: space-between;
+    align-items: center;
+    padding: 0 3em;
+}
+
+.nd {
+    cursor: pointer;
+}
+
+.st {
+    cursor: pointer;
+}

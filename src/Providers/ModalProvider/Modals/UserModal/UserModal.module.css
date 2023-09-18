@@ -1,0 +1,16 @@
+.wrapper {
+    min-width: 40vmin;
+    min-height: 50vmin;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: white;
+    display: flex;
+    justify-content: space-between;
+    flex-direction: column;
+    padding: 2em;
+}
+
+.close {
+    cursor: pointer;
+}

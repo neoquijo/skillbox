@@ -1,0 +1,64 @@
+{
+    "posts": [
+        {
+            "id": 1,
+            "title": "Introduction to React",
+            "shortlink": "react-intro",
+            "body": "React is a JavaScript library for building user interfaces."
+        },
+        {
+            "id": 2,
+            "title": "Getting Started with JavaScript",
+            "shortlink": "js-getting-started",
+            "body": "JavaScript is a versatile scripting language used for web development."
+        },
+        {
+            "id": 3,
+            "title": "State Management in React",
+            "shortlink": "react-state-management",
+            "body": "Learn how to manage state in React applications."
+        },
+        {
+            "id": 4,
+            "title": "JavaScript ES6 Features",
+            "shortlink": "js-es6-features",
+            "body": "Explore the modern features of ECMAScript 6 (ES6) in JavaScript."
+        },
+        {
+            "id": 5,
+            "title": "React Component Lifecycle",
+            "shortlink": "react-lifecycle",
+            "body": "Understanding the lifecycle of React components is crucial for development."
+        },
+        {
+            "id": 6,
+            "title": "Async Programming in JavaScript",
+            "shortlink": "js-async-programming",
+            "body": "Learn about asynchronous programming in JavaScript using promises and async/await."
+        },
+        {
+            "id": 7,
+            "title": "React Hooks Explained",
+            "shortlink": "react-hooks",
+            "body": "Hooks are a new addition in React 16.8 that let you use state and other React features without writing a class."
+        },
+        {
+            "id": 8,
+            "title": "JavaScript Best Practices",
+            "shortlink": "js-best-practices",
+            "body": "Discover best practices for writing clean and maintainable JavaScript code."
+        },
+        {
+            "id": 9,
+            "title": "React Router Basics",
+            "shortlink": "react-router-basics",
+            "body": "Learn how to implement routing in React applications using React Router."
+        },
+        {
+            "id": 10,
+            "title": "Promises in JavaScript",
+            "shortlink": "js-promises",
+            "body": "Promises provide a cleaner way to work with asynchronous code in JavaScript."
+        }
+    ]
+}

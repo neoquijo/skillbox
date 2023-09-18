@@ -1,0 +1,19 @@
+.wrapper {
+
+    height: 100%;
+
+}
+
+.link {
+    text-decoration: none;
+    color: black;
+
+}
+
+ul {
+    display: flex;
+    flex-direction: column;
+    gap: 1em;
+    list-style: none;
+
+}

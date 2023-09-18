@@ -1,0 +1,12 @@
+{
+    "compilerOptions": {
+        "moduleResolution": "nodenext",
+        "target": "ES6",
+        "baseUrl": ".",
+        "module": "NodeNext",
+        "jsx": "react-jsx",
+        "outDir": "./dist",
+        "strict": true,
+        "esModuleInterop": true
+    }
+}
